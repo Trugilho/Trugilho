@@ -6,6 +6,7 @@ Atualmente aposentado da instituição financeira quero novamente me enveredar p
 </p>
 
   - 📫 Como me encontrar: <a href="https://www.linkedin.com/in/robertotrugilhomoreira-bba268240/">Linkedin</a>
+  - 📫 Meu e-mail: <a>rtrugilho@gmail.com</a>
   - 👯 Meu Portifólio : <a href="https://github.com/Trugilho">GitHub</a>
 
 
