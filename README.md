@@ -9,16 +9,16 @@ Atualmente aposentado da instituição financeira quero novamente me enveredar p
   - 📫 Meu e-mail: <a>rtrugilho@gmail.com</a>
   - 👯 Meu Portifólio : <a href="https://github.com/Trugilho">GitHub</a>
 
-<p align="center">###Programação Orientada a Objeto:</p>
+<p align="center">### Programação Orientada a Objeto:</p>
 Paradigma da programação onde tentamos transferir para o computador a realidade, os modelos do mundo real, tentando simulá-los e moldá-los dentro dos algoritmos, vemos as entidades no mundo real e tentamos reproduzi-las no nosso algorítmo.
 
-<p align="center">##Abstração</p>
+<p align="center">## Abstração</p>
 É um pilar da POO, é considerada a habilidade de compreender as características do mundo real, as características do problema que o desenvolvedor esteja tentando resolver, ignorando detalhes que não sejam relevantes para a solução do problema.
 Abstração significa "esconder" partes da implementação do objeto expondo apenas uma interface simples para seu uso. Significa ocultar coisas desnecessárias. Da mesma forma seu objeto deve ter uma interface simples e amigável, deixando suas partes complexas ou detalhes de implementação protegidos do mundo exterior. Assim, mudanças feitas internamente no nível da implementação não irão afetar sua interface pública e aqueles que utilizarem o objeto. Usamos/colocamos somente os atributos mais importantes no momento, criando um objeto.
 
-#Instância - chama-se instância de uma classe, um objeto cujo comportamento e estado são definidos pela classe.
+# Instância - chama-se instância de uma classe, um objeto cujo comportamento e estado são definidos pela classe.
 
-#Atributos - Define características do objeto.
+# Atributos - Define características do objeto.
 
 
 <p align="center">
